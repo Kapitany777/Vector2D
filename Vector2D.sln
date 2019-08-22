@@ -5,6 +5,10 @@ VisualStudioVersion = 16.0.29209.62
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vector2D.Console", "Vector2D.Console\Vector2D.Console.csproj", "{1740ED5E-F1BB-4A5C-BD9D-FBEA7F22EC1A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BrainCluster.Vector2D", "BrainCluster.Vector2D\BrainCluster.Vector2D.csproj", "{945CA655-5F67-45C3-8A83-293E1785CC80}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BrainCluster.Vector2D.Tests", "BrainCluster.Vector2D.Tests\BrainCluster.Vector2D.Tests.csproj", "{95DEDEED-1538-48C1-A286-D680BA895A66}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{1740ED5E-F1BB-4A5C-BD9D-FBEA7F22EC1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1740ED5E-F1BB-4A5C-BD9D-FBEA7F22EC1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1740ED5E-F1BB-4A5C-BD9D-FBEA7F22EC1A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{945CA655-5F67-45C3-8A83-293E1785CC80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{945CA655-5F67-45C3-8A83-293E1785CC80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{945CA655-5F67-45C3-8A83-293E1785CC80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{945CA655-5F67-45C3-8A83-293E1785CC80}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95DEDEED-1538-48C1-A286-D680BA895A66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95DEDEED-1538-48C1-A286-D680BA895A66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95DEDEED-1538-48C1-A286-D680BA895A66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95DEDEED-1538-48C1-A286-D680BA895A66}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
